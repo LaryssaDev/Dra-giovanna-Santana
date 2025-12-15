@@ -24,12 +24,12 @@ const HERO_IMAGE = "https://i.imgur.com/GQejIh9.png";
 const ABOUT_IMAGE = "https://i.imgur.com/146y1y3.png"; // Using the extra photo for About section
 
 const RESULT_IMAGES: ImageItem[] = [
-  { src: "https://i.imgur.com/zJGhoMz.png", alt: "Antes e Depois 1", category: "Restauração" },
-  { src: "https://i.imgur.com/W0xxFdW.png", alt: "Antes e Depois 2", category: "Estética" },
-  { src: "https://i.imgur.com/XFeDr6b.png", alt: "Antes e Depois 3", category: "Sorriso" },
-  { src: "https://i.imgur.com/rjQeSeV.png", alt: "Antes e Depois 4", category: "Harmonização" },
-  { src: "https://i.imgur.com/7McxCad.png", alt: "Antes e Depois 5", category: "Clareamento" },
-  { src: "https://i.imgur.com/NapBDcs.png", alt: "Antes e Depois 6", category: "Prótese" },
+  { src: "https://i.imgur.com/zJGhoMz.png", alt: "Antes e Depois 1" },
+  { src: "https://i.imgur.com/W0xxFdW.png", alt: "Antes e Depois 2" },
+  { src: "https://i.imgur.com/XFeDr6b.png", alt: "Antes e Depois 3" },
+  { src: "https://i.imgur.com/rjQeSeV.png", alt: "Antes e Depois 4" },
+  { src: "https://i.imgur.com/7McxCad.png", alt: "Antes e Depois 5" },
+  { src: "https://i.imgur.com/NapBDcs.png", alt: "Antes e Depois 6" },
 ];
 
 const FAQ_ITEMS = [
